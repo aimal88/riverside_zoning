@@ -1,0 +1,9 @@
+streamlit
+leafmap[maplibre]
+geopandas
+pandas
+shapely
+fiona
+pyproj
+rtree
+mapclassify
